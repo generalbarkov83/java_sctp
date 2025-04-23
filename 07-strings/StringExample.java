@@ -1,4 +1,4 @@
-
+package L7Strings;
 
 import java.util.Scanner;
 
